@@ -1,0 +1,7 @@
+<div class="calculator">
+    <div>
+        <input type="text" class="inputnum" value="{{result}}" readonly>
+    </div>
+    <button class="responsive long" *ngFor="let clear of longbuttons" (click)="add(clear)"> {{ clear }} </button>
+    <button class="responsive" *ngFor="let numandop of num_and_op" (click)="add(numandop)"> {{ numandop }} </button>
+</div>

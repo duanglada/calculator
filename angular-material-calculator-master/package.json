@@ -33,7 +33,7 @@
     "coffeeify": "~0.7.0",
     "deamdify": "^0.1.1",
     "debowerify": "~0.9.1",
-    "ecstatic": "~0.5.3",
+    "ecstatic": "~4.1.2",
     "gulp": "~3.8.1",
     "gulp-autoprefixer": "1.0.1",
     "gulp-bower": "0.0.10",
